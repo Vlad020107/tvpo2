@@ -1,0 +1,4 @@
+pip install pytest
+python reproduce_bug.py
+python measure_coverage.py
+python mutation_check.py
